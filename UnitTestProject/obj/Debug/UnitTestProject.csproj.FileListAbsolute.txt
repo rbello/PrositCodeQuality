@@ -1,0 +1,9 @@
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\bin\Debug\ConsoleApplication.exe
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\bin\Debug\ConsoleApplication.pdb
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\rbello\documents\visual studio 2015\Projects\PrositCodeQuality\UnitTestProject\obj\Debug\UnitTestProject.pdb
