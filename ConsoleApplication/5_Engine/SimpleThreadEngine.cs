@@ -15,12 +15,13 @@ namespace ConsoleApplication.Engine
 
         public IUniversRenderer Renderer { get; set; }
 
-        public int TickDelay { get; set; } = 500;
+        public int TickDelay { get; set; }
 
         public void Init()
         {
             // Non utilisé dans cette implémentation, mais pourrait servir à
             // initialiser une vue d'IHM par exemple.
+            TickDelay = 500;
         }
 
         public void Start()
